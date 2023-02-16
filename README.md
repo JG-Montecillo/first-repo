@@ -8,9 +8,7 @@
 
 ## demo for conflict updatess
 
-<<<<<<< HEAD
-## demo for conflict again
-=======
 ## demo for conflict again
 
->>>>>>> b7986112efaeedc231573e283438faabff23354d
+
+## demo for another another conflict
